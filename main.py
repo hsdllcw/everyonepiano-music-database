@@ -33,7 +33,7 @@ def download(i, music_no, file_path):
         download(i, music_no, file_path)
 
 
-def main(down_load_dir=(os.path.expanduser('~') + "/Desktop/eop/")):
+def main(down_load_dir=(os.path.expanduser('./'))):
     print("下载目录:" + down_load_dir)
     delete_exists_file(down_load_dir)
     # 发送请求，获取总钢琴曲数
@@ -43,7 +43,7 @@ def main(down_load_dir=(os.path.expanduser('~') + "/Desktop/eop/")):
     # 获取总音乐数
     count = int(soup.find_all(name="div", attrs={"class": "EOPPageNo"})[0].find_all(name="span")[0].text)
     last_error_page_count = 0
-    i = 12285
+    i = 12286
     # 不会吧不会吧不会真有人不知道count怎么用吧
     while i < count or last_error_page_count < 10:
         music_no = str(i)
