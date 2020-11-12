@@ -43,7 +43,7 @@ def main(down_load_dir=(os.path.expanduser('./'))):
     # 获取总音乐数
     count = int(soup.find_all(name="div", attrs={"class": "EOPPageNo"})[0].find_all(name="span")[0].text)
     last_error_page_count = 0
-    i = 12286
+    i = 12321
     # 不会吧不会吧不会真有人不知道count怎么用吧
     while i < count or last_error_page_count < 10:
         music_no = str(i)
@@ -96,7 +96,7 @@ def main(down_load_dir=(os.path.expanduser('./'))):
                     if os.path.exists(repeat_music_dir):
                         file_path = repeat_music_dir + "/" + file_name
                     if not os.path.exists(music_dir + "/.exists"):
-                        with open(music_dir + "/.existsh", "wb") as file:
+                        with open(music_dir + "/.exists", "wb") as file:
                             file.close()
                     print(file_name + "\t已经下载")
             else:
