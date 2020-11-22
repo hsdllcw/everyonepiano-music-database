@@ -1,0 +1,15 @@
+
+
+**Dream of Flying双手简谱** 和五线谱完全对应。
+
+_Dream of Flying_ 是一首纯音乐，由Brian Crain演奏。Brian
+Crain出生在加利福尼亚好莱坞，10岁开始学钢琴，但不久就对钢琴练习产生厌倦。19岁时，为了完成第一部采用旋转磁头数码录音的好莱坞全本电影，他建立了一个录音工作室。在这个期间，Brian
+Crain偶尔会坐到被遗忘很久的钢琴前，他会即兴演奏一段，正象他以前用口哨即兴演奏一样，直到这些音符听起来很好听为止。不知不觉中，他就这样自学了钢琴。现在，Brian
+Crain已经售出了数十万张唱片。有人在形容听到Brian
+Crain演奏的钢琴曲子后有这样的感觉：“就好像漫天轻柔雪花在舞蹈，它们来自天堂，纯洁无瑕的笼罩着周围的世界。”
+
+这里我们提供 _Dream of Flying钢琴谱_ ，大家可以免费下载学习。
+
+同时，网站还为大家提供了《[Butterfly Waltz](Music-4490-Butterfly-Waltz-Brian-Crain.html
+"Butterfly Waltz")》的曲谱下载
+

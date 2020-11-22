@@ -1,0 +1,12 @@
+
+
+**A Hopeful Transmission** 出自摇滚乐队Coldplay于2011年10月24日发行的第五张录音室专辑Mylo
+Xyloto。受到一些摇滚先驱的影响，Coldplay乐队的成员从少年时期就拿起了乐器开始音乐表演。Coldplay乐队的成员都来自普通的工人家庭，ChrisMartin从很小的时候就开始弹钢琴，15岁开始已经混迹于各种乐队，并且得到过Tom
+Waits的称赞。Jon Buckland受到了Eric Clapton以及Jimi
+Hendrix等吉他大师的影响，从11岁开始弹奏吉他。来自苏格兰的Guy
+Berryman则受到了一些Funk音乐熏陶而拿起了贝司。再加入Coldplay乐队之前Will
+Champion曾经演奏过吉他，贝司，笛子等各种乐器，但是由于Coldplay乐队成军伊始缺少鼓手，所以多才多艺的Will
+Champion便成为了乐队鼓手和打击乐器的人选。
+
+这里我们提供 _A Hopeful Transmission钢琴谱_ ，希望大家喜欢。
+
