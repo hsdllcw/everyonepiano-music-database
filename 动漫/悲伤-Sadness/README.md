@@ -1,0 +1,16 @@
+
+
+《黑岩射手》插曲《悲しみ》
+
+黑岩射手（BLACK★ROCK
+SHOOTER，ブラック★ロックシューター），简称BRS。最初为日本插画家Huke2007年12月26日发表于Pixiv上的一位原创插画角色。不久被同人社团supercell的ryo看中，以该角色的造型写了一首初音未来合成的原创歌曲，在Niconico动画上走红。good
+smile
+company收购其开发权后出品了人物模型，并于2010年7月24日免费发放由Ordet制作的OVA作品。2010年11月14日在AFAX上GSC社长安艺贵范亲自宣布《Black★Rock
+Shooter 2》正式制作决定。2012年2月TV动画全8话放送开始。 另有游戏与之同名。
+
+该作品成为引人注目的契机是在supercell的ryo以该角色的造型写了一首歌2008年6月13日，ryo于NICONICO动画上发表了视频《初音ミクがオリジナルを歌ってくれたよ「ブラック★ロックシューター」》（由初音未来所唱的原创歌"BLACK★ROCK
+SHOOTER"）。视频即以Black★Rock
+Shooter为主角。视频中，音乐由ryo利用虚拟歌手初音未来制作，而PV则由huke制作。该作此后大受欢迎，同时也标志着Black★RockShooter开始真正为大多数人所知晓，至2008年末，BRS已NICONICO动画累积播放数达100万次以上。  
+因为音乐与初音未来有关，而视频中的女主角Black★RockShooter的外形又酷似初音未来，所以Black★RockShooter一度被误认作是初音未来的二次创作产物。此后CRYPTONFUTURE
+MEDIA（初音未来的制造发行商）出面澄清了这一误解。
+
