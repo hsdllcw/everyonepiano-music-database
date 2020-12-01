@@ -32,6 +32,7 @@ def download(i, music_no, file_path):
         )
         with open(file_path, "wb") as file:
             file.write(res.data)
+            print(file_path)
     except Exception:
         download(i, music_no, file_path)
 
@@ -71,7 +72,7 @@ def main(down_load_dir=(os.path.expanduser('./'))):
     # 获取总音乐数
     count = int(soup.find_all(name="div", attrs={"class": "EOPPageNo"})[0].find_all(name="span")[0].text)
     last_error_page_count = 0
-    # i = 12362
+    # i = 12405
     i = 0
     # 不会吧不会吧不会真有人不知道count怎么用吧
     while i < count or last_error_page_count < 10:
