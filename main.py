@@ -72,7 +72,7 @@ def main(down_load_dir=(os.path.expanduser('./'))):
     # 获取总音乐数
     count = int(soup.find_all(name="div", attrs={"class": "EOPPageNo"})[0].find_all(name="span")[0].text)
     last_error_page_count = 0
-    # i = 12405
+    # i = 12723
     i = 0
     # 不会吧不会吧不会真有人不知道count怎么用吧
     while i < count or last_error_page_count < 10:
@@ -143,6 +143,8 @@ def main(down_load_dir=(os.path.expanduser('./'))):
 # "div")))[ 0].text })
 #####################################################################################################################
 
+# 空文件返回结果
+# <script>alert("此文件不存在");this.window.opener = null; window.open("","_self");window.close();  </script>
 
 if __name__ == "__main__":
     try:
