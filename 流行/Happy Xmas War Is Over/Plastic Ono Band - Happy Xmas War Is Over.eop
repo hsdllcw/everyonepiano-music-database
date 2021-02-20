@@ -1,1 +1,0 @@
-<script>alert("此文件不存在");this.window.opener = null; window.open("","_self");window.close();  </script>

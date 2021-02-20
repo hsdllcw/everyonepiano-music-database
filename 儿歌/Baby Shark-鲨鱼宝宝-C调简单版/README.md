@@ -1,5 +1,3 @@
-
-
 **Baby Shark** ，中文《鲨鱼宝宝》，是一首关于鲨鱼一家的儿歌。2016年起在社交媒体上流行。
 
 _Baby Shark_ 的舞蹈版起源于2007年Alexandra Müller（艺名为Alemuel）放出的Youtube视频《Kleiner
