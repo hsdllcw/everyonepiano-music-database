@@ -145,7 +145,7 @@ def main(down_load_dir=(os.path.expanduser('./'))):
     count = int(soup.find_all(name="div", attrs={"class": "EOPPageNo"})[0].find_all(name="span")[0].text)
     last_error_page_count = 0
     # i = 0
-    i = 12943
+    i = 12967
     # 不会吧不会吧不会真有人不知道count怎么用吧
     while i < count or last_error_page_count < 10:
         if download(i, down_load_dir):
