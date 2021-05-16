@@ -1,5 +1,3 @@
-
-
 **突破口** 是电视动画片《排球少年！！ TO THE TOP》的片头曲，由日本摇滚乐队Super Beaver演唱。
 
 动画《排球少年！！ TO THE TOP》是《排球少年！！》系列动画片的第4期，由Production
