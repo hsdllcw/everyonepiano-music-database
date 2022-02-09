@@ -1,5 +1,3 @@
-
-
 **Daylight双手简谱** 和五线谱完全对应。
 
 _Daylight_
